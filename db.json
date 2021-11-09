@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computerrr",
+      "price": 4300,
+      "quantity": 600,
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "pp",
+      "price": "90",
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 2
+    },
+    {
+      "name": "test",
+      "price": "77",
+      "quantity": "21",
+      "selected": true,
+      "available": true,
+      "id": 3
+    },
+    {
+      "name": "ttttt",
+      "price": "011",
+      "quantity": "033",
+      "selected": true,
+      "available": true,
+      "id": 4
+    }
+  ]
+}
